@@ -12,10 +12,11 @@ j/↓: move down
 k/↑: move up  
 l/→: move right  
 backspace: undo last action  
+esc: exit game  
 
 You can copy actions and save to a text file as actionfile.
 
-## preview
+## Preview
 ``` plantext
  ----          -----------
 --..--------   |.........|
